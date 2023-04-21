@@ -4,5 +4,8 @@ Implement a SLAM algorithm on video downloaded and perform active object detecti
 1. Read the frames in the video
 2. Displayed the frames using sdl2
 3. Extracted the relevant features from frame using cv2 goodfeature extractor method
-4. Drew circle around the fetaure
+4. Drew circle around the feature
+5. Usin orb find the important features in the image
+6. Map the features from two consecutie images
+7. Plot the map and display the output
 
