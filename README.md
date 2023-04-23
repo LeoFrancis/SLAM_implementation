@@ -9,5 +9,6 @@ Implement a SLAM algorithm on video downloaded and perform active object detecti
 6. Map the features from two consecutie images
 7. Plot the map and display the output
 8. Added the matchign technique using KNN macthing
+9. Fundamental matrix matchign and removing the outliers
 
 
