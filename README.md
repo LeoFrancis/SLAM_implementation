@@ -8,4 +8,6 @@ Implement a SLAM algorithm on video downloaded and perform active object detecti
 5. Usin orb find the important features in the image
 6. Map the features from two consecutie images
 7. Plot the map and display the output
+8. Added the matchign technique using KNN macthing
+
 
